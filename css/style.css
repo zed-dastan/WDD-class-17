@@ -1,0 +1,72 @@
+nav.navbar.navbar-expand-lg.navbar-light.bg-light {
+    height: auto;
+}
+a.navbar-brand {
+    font-size: 50px;
+    font-family: cursive;
+    font-weight: 800;
+}
+span.app {
+    color: #cd3535 !important;
+    margin-right: -20px;
+}
+span.fast {
+    color: #d53374 !important;
+}
+#navbarSupportedContent ul li a {
+    font-size: 17px;
+    color: #5c4c4c !important;
+    margin: 8px;
+}
+ul.navbar-nav.mr-auto {
+    margin-left: 150px;
+}
+ul.navbar-nav.mr-auto: :hover{
+    background: red;
+}
+#navbarSupportedContent ul li a:hover {
+    background: #b51271 !important;
+    color: white !important;
+    border-radius: 10%;
+}
+img.card-img-top {
+    border-radius: 50%;
+    width: 260px;
+    height: 270px;
+    margin: auto;
+    border: black solid;
+    margin-top:10px ;
+}
+.social_icon_inner i {
+    background: #f0eded;
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    padding: 7px;
+    font-size: 28px;
+    color: #b3bcc1;
+    margin: 15px
+}
+.card {
+    background: pink;
+}
+a.btn.btn-primary {
+    color: black;
+    background: blanchedalmond;
+    border:none;
+}
+a.btn.btn-primary:hover{
+    color:red;
+    background: #cfc2c2;
+    transition: 1s;
+}
+.social_icon_inner i:hover {
+    background: yellow;
+    color:aqua;
+    transition: 1s;
+}
+    #background {
+        background-image: url(../img/1.jpg);
+        height: 1000px;
+        background-attachment: fixed;
+    }
